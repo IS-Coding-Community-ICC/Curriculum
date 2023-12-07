@@ -30,7 +30,7 @@ Once you finish your project, double-check to make sure your repo is ready:
 
 - Create a new GitHub repo.
 - Add 3 files (each one in a separate commit):
-    - A index.html file that includes a header with the text "Hello ICC!". Use `h1` tag for that.
+    - A index.html file that includes a header with the text "Hello ICC!". Use `h1` tag for that. Hint copy this one <h1>Hello ICC</h1>
     - A style.css file that includes text (body {background-color: coral;}
     - A script.js file with text console.log("Hello ICC")
 
